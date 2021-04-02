@@ -1,4 +1,4 @@
-baseURL: "https://weshop.github.io/wenews"
+baseURL: "https://we-shop.github.io/wenews"
 paginate: 5
 theme: PaperMod
 publishDir: "docs"
