@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on WeNews</title>
+    <link>https://weshop.github.io/wenews/categories/</link>
+    <description>Recent content in Categories on WeNews</description>
+    <image>
+      <url>https://weshop.github.io/favicon.png</url>
+      <link>https://weshop.github.io/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://weshop.github.io/wenews/categories/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

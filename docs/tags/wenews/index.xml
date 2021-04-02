@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wenews on WeNews</title>
+    <link>https://weshop.github.io/wenews/tags/wenews/</link>
+    <description>Recent content in wenews on WeNews</description>
+    <image>
+      <url>https://weshop.github.io/favicon.png</url>
+      <link>https://weshop.github.io/favicon.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://weshop.github.io/wenews/tags/wenews/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to WeShop</title>
+      <link>https://weshop.github.io/wenews/welcome/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://weshop.github.io/wenews/welcome/</guid>
+      <description>WeShop is a revolutionary social commerce platform coming soon which is truly social and truly commercial.
+Buy, share, earn We believe people do listen to their friends and family when making purchasing decisions.</description>
+    </item>
+    
+    <item>
+      <title>Markdown example</title>
+      <link>https://weshop.github.io/wenews/markdown-example/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://weshop.github.io/wenews/markdown-example/</guid>
+      <description>h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
+(c) (C) (r) (R) (tm) (TM) (p) (P) +-</description>
+    </item>
+    
+  </channel>
+</rss>
