@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on WeNews</title>
-    <link>https://we-shop.github.io/wenews/categories/</link>
+    <link>https://news.we.shop/categories/</link>
     <description>Recent content in Categories on WeNews</description>
     <image>
-      <url>https://we-shop.github.io/favicon.png</url>
-      <link>https://we-shop.github.io/favicon.png</link>
+      <url>https://news.we.shop/favicon.png</url>
+      <link>https://news.we.shop/favicon.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://we-shop.github.io/wenews/categories/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://news.we.shop/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

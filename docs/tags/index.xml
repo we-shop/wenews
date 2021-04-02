@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on WeNews</title>
-    <link>https://we-shop.github.io/wenews/tags/</link>
+    <link>https://news.we.shop/tags/</link>
     <description>Recent content in Tags on WeNews</description>
     <image>
-      <url>https://we-shop.github.io/favicon.png</url>
-      <link>https://we-shop.github.io/favicon.png</link>
+      <url>https://news.we.shop/favicon.png</url>
+      <link>https://news.we.shop/favicon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://we-shop.github.io/wenews/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://news.we.shop/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>wenews</title>
-      <link>https://we-shop.github.io/wenews/tags/wenews/</link>
+      <link>https://news.we.shop/tags/wenews/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://we-shop.github.io/wenews/tags/wenews/</guid>
+      <guid>https://news.we.shop/tags/wenews/</guid>
       <description></description>
     </item>
     
     <item>
       <title>weshop</title>
-      <link>https://we-shop.github.io/wenews/tags/weshop/</link>
+      <link>https://news.we.shop/tags/weshop/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://we-shop.github.io/wenews/tags/weshop/</guid>
+      <guid>https://news.we.shop/tags/weshop/</guid>
       <description></description>
     </item>
     

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on WeNews</title>
-    <link>https://we-shop.github.io/wenews/page/</link>
+    <link>https://news.we.shop/page/</link>
     <description>Recent content in Pages on WeNews</description>
     <image>
-      <url>https://we-shop.github.io/favicon.png</url>
-      <link>https://we-shop.github.io/favicon.png</link>
+      <url>https://news.we.shop/favicon.png</url>
+      <link>https://news.we.shop/favicon.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://we-shop.github.io/wenews/page/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://news.we.shop/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FAQ</title>
-      <link>https://we-shop.github.io/wenews/faq/</link>
+      <link>https://news.we.shop/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://we-shop.github.io/wenews/faq/</guid>
+      <guid>https://news.we.shop/faq/</guid>
       <description>How do I create a new profile? As a registered user, you will have an empty profile assigned to you, a blank canvas! It is then up to you to start adding products and customising the content to really make your profile stand out from the rest.</description>
     </item>
     

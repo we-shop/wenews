@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://we-shop.github.io/wenews/sitemap.xml
+Sitemap: https://news.we.shop/sitemap.xml
