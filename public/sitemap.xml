@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://wenews.com/tags/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenews.com/welcome/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenews.com/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenews.com/tags/wenews/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenews.com/tags/weshop/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenews.com/markdown-example/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wenews.com/categories/</loc>
+  </url><url>
+    <loc>https://wenews.com/faq/</loc>
+  </url><url>
+    <loc>https://wenews.com/page/</loc>
+  </url><url>
+    <loc>https://wenews.com/search/</loc>
+  </url>
+</urlset>
