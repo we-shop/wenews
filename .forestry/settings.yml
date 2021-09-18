@@ -6,9 +6,10 @@ webhook_url:
 sections:
 - type: directory
   path: content/en
-  label: En
+  label: Posts-English
   create: all
   match: "**/*"
+  exclude: page/*
 - type: directory
   path: content/en/page
   label: Pages
