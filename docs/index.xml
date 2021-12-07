@@ -20,25 +20,5 @@
 Buy, share, earn We believe people do listen to their friends and family when making purchasing decisions.</description>
     </item>
     
-    <item>
-      <title>Markdown example</title>
-      <link>https://news.we.shop/markdown-example/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://news.we.shop/markdown-example/</guid>
-      <description>h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-</description>
-    </item>
-    
-    <item>
-      <title>FAQ</title>
-      <link>https://news.we.shop/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://news.we.shop/faq/</guid>
-      <description>How do I create a new profile? As a registered user, you will have an empty profile assigned to you, a blank canvas! It is then up to you to start adding products and customising the content to really make your profile stand out from the rest.</description>
-    </item>
-    
-    
   </channel>
 </rss>

@@ -110,13 +110,13 @@ languages:
         url: "https://www.instagram.com/weshopsocial"
       - name: twitter
         url: "https://twitter.com/WeShopSocial"
-    menu:
-      main:
-        - identifier: search
-          name: Search
-          url: /search/
-          weight: 15
-        - identifier: faq
-          name: FAQ
-          url: /faq/
-          weight: 25
+#    menu:
+#      main:
+#        - identifier: search
+#          name: Search
+#          url: /search/
+#          weight: 15
+#        - identifier: faq
+#          name: FAQ
+#          url: /faq/
+#          weight: 25

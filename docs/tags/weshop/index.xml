@@ -20,15 +20,5 @@
 Buy, share, earn We believe people do listen to their friends and family when making purchasing decisions.</description>
     </item>
     
-    <item>
-      <title>Markdown example</title>
-      <link>https://news.we.shop/markdown-example/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://news.we.shop/markdown-example/</guid>
-      <description>h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules    Typographic replacements Enable typographer option to see result.
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-</description>
-    </item>
-    
   </channel>
 </rss>
