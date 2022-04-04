@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on WeNews</title>
-    <link>https://news.we.shop/page/</link>
-    <description>Recent content in Pages on WeNews</description>
+    <title>changelog on WeNews</title>
+    <link>https://news.we.shop/tags/changelog/</link>
+    <description>Recent content in changelog on WeNews</description>
     <image>
       <url>https://news.we.shop/favicon.png</url>
       <link>https://news.we.shop/favicon.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://news.we.shop/page/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 04 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://news.we.shop/tags/changelog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WeShop: Changelog 04/04/2022 </title>
       <link>https://news.we.shop/changelog_04042022/</link>
@@ -18,16 +18,6 @@
       <guid>https://news.we.shop/changelog_04042022/</guid>
       <description>Quick Intro What an incredible few weeks it’s been… and say hello to our first ever changelog post on WeShop.
 The engineers at WeShop have been working hard to make the WeShop dream a reality.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to WeShop</title>
-      <link>https://news.we.shop/welcome/</link>
-      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://news.we.shop/welcome/</guid>
-      <description>WeShop is a revolutionary social commerce platform coming soon which is truly social and truly commercial.
-Buy, share, earn We believe people do listen to their friends and family when making purchasing decisions.</description>
     </item>
     
   </channel>
