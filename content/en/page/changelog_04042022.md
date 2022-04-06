@@ -4,7 +4,7 @@ tags: ['wenews', 'weshop', 'changelog']
 author: 'Nick, Head of Product at WeShop'
 date: '2022-04-04'
 ---
-![weshop changelog](/weshop_changelog.png)
+![weshop changelog](/changelog_04042022.png)
 
 Quick Intro
 ===========
