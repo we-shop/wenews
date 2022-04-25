@@ -1,5 +1,5 @@
 ---
-title: 'WeShop: Changelog 04/04/2022 '
+title: 'WeShop: Changelog 04/04/2022'
 tags: ['wenews', 'weshop', 'changelog']
 author: 'Nick, Head of Product at WeShop'
 date: '2022-04-04'
