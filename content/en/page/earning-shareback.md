@@ -5,6 +5,8 @@ author: 'WeShop'
 date: '2022-04-19'
 ---
 
+![earning-shareback](/earning-shareback.png)
+
 ## Become an expert in earning WeShares
 WeShop has built a powerful platform that connects directly with retailers, making sure every purchase you make appears in your dashboard. WeShop has worked very hard to try and guarantee this tracking works perfectly, and if you follow the 10 golden rules you can make sure your purchases appear every time.
 
