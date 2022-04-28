@@ -19,7 +19,7 @@ WeShop has built a powerful platform that connects directly with retailers, maki
 
 ## Shareback Don’ts
 * Don’t expect shareback to be paid on cancelled or returned orders, even partial returns will change the value of your earnings.
-* Don’t make purchases with gift cards, Klarna, finance or other credit agreements.
+* Don’t make purchases with gift cards, Klarna, finance or other credit agreements (they don't always work!)
 * Never use voucher or discount codes unless supplied officially from WeShop.
 * If you’re adding multiple items to your basket, remember, not all items will be eligible for WeShares.
 * Don’t add too many high-value items to your basket (e.g., 50 pairs of Apple Airpods) as the retailer will likely suspect fraudulent activity.
