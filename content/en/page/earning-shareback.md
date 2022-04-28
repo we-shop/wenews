@@ -1,14 +1,16 @@
 ---
 title: 'Earning Shareback: 10 Golden Do’s and Don’ts'
-tags: ['wenews', 'weshop', 'changelog']
+tags: ['wenews', 'weshop', 'purchases', 'transactions']
 author: 'WeShop'
 date: '2022-04-19'
 ---
 
 ![earning-shareback](/earning-shareback.png)
 
+> **Missing a purchase from your dashboard?** Contact [customer support](https://help.we.shop/en/article/my-purchase-is-missing-what-should-i-do-now-1cg3ex1) to raise a claim
+
 ## Become an expert in earning WeShares
-WeShop has built a powerful platform that connects directly with retailers, making sure every purchase you make appears in your dashboard. WeShop has worked very hard to try and guarantee this tracking works perfectly, and if you follow the 10 golden rules you can help make sure your purchases appear every time.
+WeShop has built a powerful platform that connects directly with retailers, making sure every purchase you make appears in your dashboard. WeShop is working with retailers around the clock to try and make sure your purchase appears and if you follow the 10 golden rules you can help your purchases appear every time.
 
 ## Shareback Do’s
 * Make your purchase as soon as you tap “Buy now” or visit the retailer from Discover.
